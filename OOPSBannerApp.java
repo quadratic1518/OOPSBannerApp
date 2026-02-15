@@ -6,12 +6,7 @@
  */
 public class OOPSBannerApp {
     
-    /**
-     * Main method - Entry point of the application
-     * Prints "OOPS" to the console
-     * 
-     * @param args Command line arguments (not used)
-     */
+   
     public static void main(String[] args) {
         System.out.println("OOPS");
     }
